@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="faef934d2f2060505400265df699b694" sys_domain="global" table="x_274808_wish_list_wish_item" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-11-16 18:44:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b2ef934d2f2060505400265df699b6e2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_274808_wish_list_wish_item" name="x_274808_wish_list_wish_item" sys_domain="global" view="Default view">faef934d2f2060505400265df699b694</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_274808_wish_list_wish_item" sys_domain="global" view="Default view">4f1fdbc92f2060505400265df699b671</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-11-16 18:44:24</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-11-16 18:44:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>beef934d2f2060505400265df699b6e2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_274808_wish_list_wish_item" name="x_274808_wish_list_wish_item" sys_domain="global" view="Default view">faef934d2f2060505400265df699b694</sys_ui_form>
+            <sys_ui_section caption="Requestor" display_value="Requestor" name="x_274808_wish_list_wish_item" sys_domain="global" view="Default view">36ef934d2f2060505400265df699b693</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-11-16 18:44:24</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-11-16 18:44:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b2ef934d2f2060505400265df699b6e6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_274808_wish_list_wish_item" name="x_274808_wish_list_wish_item" sys_domain="global" view="Default view">faef934d2f2060505400265df699b694</sys_ui_form>
+            <sys_ui_section caption="URL" display_value="URL" name="x_274808_wish_list_wish_item" sys_domain="global" view="Default view">7eef934d2f2060505400265df699b693</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-11-16 18:44:24</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_274808_wish_list_wish_item</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-11-16 18:44:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>faef934d2f2060505400265df699b694</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_274808_wish_list_wish_item</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Wish List" source="x_274808_wish_list">0a9083852fec20505400265df699b698</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Wish List">0a9083852fec20505400265df699b698</sys_scope>
+            <sys_update_name>sys_ui_form_sections_faef934d2f2060505400265df699b694</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-11-16 18:44:24</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
